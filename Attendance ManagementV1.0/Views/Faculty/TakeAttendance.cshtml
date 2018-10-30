@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Attendance_ManagementV1._0.Models.Student>
+@using Attendance_ManagementV1._0.Models
+@{
+    ViewBag.Title = "TakeAttendance";
+}
+
+<h2>TakeAttendance</h2>
+  <form action="/Faculty/SubmitAttendance" method="post">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentName)
+                </td>
+                <td>
+                   
+                    <input type="checkbox" name="attendance" value="@item.StudentId" />
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+</form>

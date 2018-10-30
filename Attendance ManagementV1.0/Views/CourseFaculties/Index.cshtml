@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Attendance_ManagementV1._0.Models.FacultyCourse>
+@using Attendance_ManagementV1._0.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Assign Courses to Faculties", "AssignCoursesToFaculties", "Admin")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.courses.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.faculties.FacultyName)
+        </th>
+        <th>
+            @Html.DisplayName("DivisionName")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.courses.CourseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.faculties.FacultyName)
+        </td>
+            <td>
+                @{ 
+                    var db = new ProjDbContext();
+                    var name=db.Divisions.Where(s=>s.DivisionId==item.DivisionId).FirstOrDefault().DivisionName;
+
+
+                }
+                @name
+            </td>
+        <td>
+            @Html.ActionLink("Delete", "Delete", new { id1=item.CourseId,id2=item.FacultyId, id3=item.DivisionId})
+        </td>
+    </tr>
+}
+
+</table>

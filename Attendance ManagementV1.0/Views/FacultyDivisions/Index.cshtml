@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Attendance_ManagementV1._0.Models.FacultyDivision>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.divisions.DivisionName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.faculties.FacultyName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.divisions.DivisionName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.faculties.FacultyName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<script>
+    $(document).ready(function () {
+        $("#news_date").datepicker({ dateFormat: 'dd/mm/yy' });
+    });
+
+</script>
+<h2>Hello @ViewBag.Fname</h2>
+<br />
+<form action="/Faculty/TakeAttendance" method="post">
+    <table class="table">
+        <tr>
+            <td>
+                <b>Division : &nbsp;</b>
+            </td>
+            <td>
+                @Html.DropDownList("DivisionId", "Select Division")
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <b>Course : &nbsp;</b>
+            </td>
+            <td>
+                @Html.DropDownList("CourseId", "Select Course")
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b>Date:&nbsp;</b>
+            </td>
+            <td>
+                <input type="date" id="news_date" name="news_date" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Take Attendance" name="takeAttendance" />
+            </td>
+        </tr>
+     </table>
+</form>
+
+
+
+
+

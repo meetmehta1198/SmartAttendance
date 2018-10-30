@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Attendance_ManagementV1._0.Models.Division>
+
+@{
+    ViewBag.Title = "ViewDivisions";
+}
+
+<h2>ViewDivisions</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateDivision")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DivisionName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DivisionName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit","Divisions" ,new { id=item.DivisionId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.DivisionId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.DivisionId })
+        </td>
+    </tr>
+}
+
+</table>

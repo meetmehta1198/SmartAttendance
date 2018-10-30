@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "AssignFacultyToDivisions";
+}
+
+<h2>AssignFacultyToDivisions</h2>
+<h3>@Html.Raw(@ViewBag.Message)</h3>
+<br />
+<form action="AssignFacultyToDivisions" method="post">
+    <b>Division Name : &nbsp;</b>@Html.DropDownList("DivisionId", "Select Division")
+    <b>Course Name : &nbsp;</b>@Html.DropDownList("CourseId", "Select Course")
+   
+    <br />
+   
+    <ul style="list-style-type:none">
+        @foreach (var f in ViewBag.Faculties)
+        {
+            <li><input type="checkbox" name="FacultyIds" value="@f.FacultyId" />@f.FacultyName</li>
+        }
+
+    </ul>
+    <input type="submit" value="Assign" name="AssignButton" />
+</form>
+
+

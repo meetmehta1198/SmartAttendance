@@ -1,0 +1,179 @@
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\ApplicationInsights.config
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\csc.exe
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\vbc.exe
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Attendance ManagementV1.0.dll.config
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Attendance ManagementV1.0.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Attendance ManagementV1.0.pdb
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Antlr3.Runtime.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.SqlServer.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.Web.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Newtonsoft.Json.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Owin.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Helpers.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Mvc.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Optimization.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Razor.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\WebGrease.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.Web.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Helpers.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Mvc.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Optimization.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Razor.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Antlr3.Runtime.pdb
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Newtonsoft.Json.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.SqlServer.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.pdb
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.csprojResolveAssemblyReference.cache
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.Mvc.dll
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.Mvc.xml
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance_ManagementV1._0.Migrations.init.resources
+C:\Users\HP WORLOD\Documents\Visual Studio 2015\Projects\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.csproj.GenerateResource.Cache
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\ApplicationInsights.config
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\csc.exe
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\System.Collections.Immutable.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\System.Reflection.Metadata.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\vbc.exe
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\VBCSCompiler.exe
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\roslyn\VBCSCompiler.exe.config
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Attendance ManagementV1.0.dll.config
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Attendance ManagementV1.0.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Attendance ManagementV1.0.pdb
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Antlr3.Runtime.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.SqlServer.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.DependencyCollector.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.Web.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.WindowsServer.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.ApplicationInsights.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Google.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Web.Infrastructure.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Newtonsoft.Json.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Owin.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.Mvc.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Helpers.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Mvc.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Optimization.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Razor.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Deployment.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Razor.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\WebGrease.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.DependencyCollector.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.Web.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AI.WindowsServer.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.ApplicationInsights.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\PagedList.Mvc.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Helpers.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Mvc.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Optimization.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.Razor.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Deployment.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\System.Web.WebPages.Razor.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Antlr3.Runtime.pdb
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Newtonsoft.Json.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\EntityFramework.SqlServer.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Google.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.dll
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.pdb
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance_ManagementV1._0.Migrations.init.resources
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.csproj.GenerateResource.Cache
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance_ManagementV1._0.Migrations.init1.resources
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance ManagementV1.0.csprojResolveAssemblyReference.cache
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance_ManagementV1._0.Migrations.init2.resources
+F:\Study\SEM-5\WDDN\Project-Backup\v2.2.5Date22-10-2018\Attendance ManagementV1.0\Attendance ManagementV1.0\obj\Debug\Attendance_ManagementV1._0.Migrations.init3.resources

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Attendance_ManagementV1._0.Models.Faculty>
+
+@{
+    ViewBag.Title = "View Faculties";
+}
+
+<h2>ViewFaculties</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateFaculty")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FacultyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mobilenumber)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FacultyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.password)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mobilenumber)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.FacultyId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.FacultyId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.FacultyId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,38 @@
+﻿
+
+<h2>Hello @ViewBag.Sname</h2>
+<table class="table">
+    <tr>
+        <th>
+            Course Name
+        </th>
+        <th>
+            Total Attendance
+        </th>
+
+        <th>
+            Total Lectures
+        </th>
+        <th>
+            Attendance(%)
+        </th>
+    </tr>
+    @foreach (KeyValuePair<string, int> kpitem in ViewBag.TotalCount)
+    {
+        <tr>
+            <td>
+                @kpitem.Key
+            </td>
+            <td>
+                @kpitem.Value
+            </td>
+            @{
+                int t = ViewBag.TotalLectures[@kpitem.Key];
+                int d = @kpitem.Value;
+                double perc = ((double)d / (double)t) * 100;
+            }
+            <td>@t</td>
+            <td>@perc</td>
+        </tr>
+                }
+</table>

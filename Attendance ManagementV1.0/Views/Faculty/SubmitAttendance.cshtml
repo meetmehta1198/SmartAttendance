@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Attendance_ManagementV1._0.Models.StudentAttendance>
+
+@{
+    ViewBag.Title = "SubmitAttendance";
+}
+
+<h2>SubmitAttendance</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.courses.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.students.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.courses.CourseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.students.StudentName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.StudentAttendenceId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.StudentAttendenceId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.StudentAttendenceId })
+        </td>
+    </tr>
+}
+
+</table>

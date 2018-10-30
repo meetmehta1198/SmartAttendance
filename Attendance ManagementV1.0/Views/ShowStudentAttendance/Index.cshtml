@@ -1,0 +1,19 @@
+﻿@using Attendance_ManagementV1._0.Controllers
+@{
+    ViewBag.Title = "ShowDivisions";
+}
+
+<h2>ShowDivisions</h2>
+<table class="table-bordered">
+    @foreach (Attendance_ManagementV1._0.Controllers.DivisionIdName div in ViewBag.Divisions)
+    {
+        <tr>
+            <td>
+                @div.DivisionName
+            </td>
+            <td>
+                @Html.ActionLink("See Attendances", "ShowDivisions", new { id = @div.DivisionId })
+            </td>
+        </tr>
+    }
+</table>
